@@ -1,0 +1,16 @@
+D:\AlmanyaProje\GlassCleaning\GlassCleaning.Core\bin\Debug\netcoreapp3.1\GlassCleaning.Core.deps.json
+D:\AlmanyaProje\GlassCleaning\GlassCleaning.Core\bin\Debug\netcoreapp3.1\GlassCleaning.Core.dll
+D:\AlmanyaProje\GlassCleaning\GlassCleaning.Core\obj\Debug\netcoreapp3.1\GlassCleaning.Core.AssemblyInfoInputs.cache
+D:\AlmanyaProje\GlassCleaning\GlassCleaning.Core\obj\Debug\netcoreapp3.1\GlassCleaning.Core.AssemblyInfo.cs
+D:\AlmanyaProje\GlassCleaning\GlassCleaning.Core\bin\Debug\netcoreapp3.1\GlassCleaning.Core.pdb
+D:\AlmanyaProje\GlassCleaning\GlassCleaning.Core\obj\Debug\netcoreapp3.1\GlassCleaning.Core.dll
+D:\AlmanyaProje\GlassCleaning\GlassCleaning.Core\obj\Debug\netcoreapp3.1\GlassCleaning.Core.pdb
+F:\AlmanyaProje\GlassCleaning\GlassCleaning.Core\bin\Debug\netcoreapp3.1\GlassCleaning.Core.deps.json
+F:\AlmanyaProje\GlassCleaning\GlassCleaning.Core\bin\Debug\netcoreapp3.1\GlassCleaning.Core.dll
+F:\AlmanyaProje\GlassCleaning\GlassCleaning.Core\bin\Debug\netcoreapp3.1\GlassCleaning.Core.pdb
+F:\AlmanyaProje\GlassCleaning\GlassCleaning.Core\obj\Debug\netcoreapp3.1\GlassCleaning.Core.csprojAssemblyReference.cache
+F:\AlmanyaProje\GlassCleaning\GlassCleaning.Core\obj\Debug\netcoreapp3.1\GlassCleaning.Core.AssemblyInfoInputs.cache
+F:\AlmanyaProje\GlassCleaning\GlassCleaning.Core\obj\Debug\netcoreapp3.1\GlassCleaning.Core.AssemblyInfo.cs
+F:\AlmanyaProje\GlassCleaning\GlassCleaning.Core\obj\Debug\netcoreapp3.1\GlassCleaning.Core.csproj.CoreCompileInputs.cache
+F:\AlmanyaProje\GlassCleaning\GlassCleaning.Core\obj\Debug\netcoreapp3.1\GlassCleaning.Core.dll
+F:\AlmanyaProje\GlassCleaning\GlassCleaning.Core\obj\Debug\netcoreapp3.1\GlassCleaning.Core.pdb

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extras.DynamicProxy" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GlassCleaning.Core\GlassCleaning.Core.csproj" />
+    <ProjectReference Include="..\GlassCleaning.DataAccess\GlassCleaning.DataAccess.csproj" />
+    <ProjectReference Include="..\GlassCleaning.Entities\GlassCleaning.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
